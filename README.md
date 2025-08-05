@@ -17,9 +17,11 @@ This project analyzes medication usage data from a Neonatal Intensive Care Unit 
 - Recommend process improvements to reduce waste
 
 ## Summary of Findings
-- 3 drugs accounted for over 60% of total NICU med costs
-- Standardizing doses of certain medications could save over $4,000/month
-- Opportunity to align Omnicell stock levels with demand trends
+
+- **Order Volume Growth**: NICU medication orders increased from 649 in March to 1,476 in May, suggesting a steady rise in workload.
+- **Peak Days**: Thursday had the highest order volume (2,685), while Tuesday and Friday were slightly lower.
+- **Time Trends**: Most orders were placed between 10 AM and 4 PM, with minimal activity during overnight hours.
+- **Operational Insight**: Staffing and inventory management should prioritize daytime shifts and peak weekdays.
 
 ## Next Steps
 - Automate reporting for pharmacy leadership
