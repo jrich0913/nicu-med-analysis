@@ -32,3 +32,4 @@ This project analyzes medication usage data from a Neonatal Intensive Care Unit 
 ## Data Source
 
 - [`NICU Order Analysis.xlsx`](NICU%20Order%20Analysis.xlsx): Contains raw data and pivot summaries used for analyzing NICU medication order trends.
+- [`queries.sql`](queries.sql): Contains SQL queries used to analyze NICU medication order trends, including volume by day/hour, monthly trends, and dose averages.
