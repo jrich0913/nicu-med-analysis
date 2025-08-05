@@ -27,3 +27,8 @@ This project analyzes medication usage data from a Neonatal Intensive Care Unit 
 - Automate reporting for pharmacy leadership
 - Develop dashboards using Power BI or Tableau
 - Integrate insights with MedKeeper for compounding workflow optimization
+
+
+## Data Source
+
+- [`NICU Order Analysis.xlsx`](NICU%20Order%20Analysis.xlsx): Contains raw data and pivot summaries used for analyzing NICU medication order trends.
